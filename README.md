@@ -10,4 +10,4 @@ I'm interested in collaboration, open-source, and focusing on making more access
 
 Pronouns: he/him/his
 
-Ask me about a11y!
+Ask me about accessibility!
